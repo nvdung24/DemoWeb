@@ -1,0 +1,16 @@
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.DataAccess.deps.json
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.DataAccess.runtimeconfig.json
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.DataAccess.runtimeconfig.dev.json
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.DataAccess.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.DataAccess.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.Common.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\bin\Debug\netcoreapp2.2\Temp.Common.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.csproj.AssemblyReference.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.AssemblyInfoInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.AssemblyInfo.cs
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.csproj.CopyComplete
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.DataAccess\obj\Debug\netcoreapp2.2\Temp.DataAccess.genruntimeconfig.cache

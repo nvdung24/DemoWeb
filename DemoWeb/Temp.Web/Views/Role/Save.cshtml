@@ -1,0 +1,61 @@
+﻿@model RoleViewModel
+@{
+    ViewData["Title"] = "Save";
+    Layout = "_AdminLayout";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h2>Save</h2>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="Save" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Name" class="control-label"></label>
+                                    <input asp-for="Name" class="form-control" />
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                            </div>                                                                                                       
+                        </div>                       
+                        <div class="form-row">
+                            <div class="form-group col-md-2">
+                                <input type="submit" value="Save" class="btn btn-primary btn-block"/>
+                            </div>
+                            <div class="form-group col-md-2">
+                                <a asp-action="Index" class="btn btn-secondary btn-block"><i class="fa fa-table"></i> Back to List</a>
+                            </div>
+                            <div class="form-group col-md-8"></div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function readURL(input) {
+    if (input.files && input.files[0]) {
+    var reader = new FileReader();
+
+    reader.onload = function(e) {
+    $('#blah').attr('src', e.target.result);
+    }
+
+    reader.readAsDataURL(input.files[0]);
+    }
+    }
+
+    $("#imgInp").change(function() {
+    readURL(this);
+    });
+    </script>
+
+}

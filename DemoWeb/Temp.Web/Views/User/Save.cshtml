@@ -1,0 +1,97 @@
+﻿@model CreateUserViewModel
+@{
+    ViewData["Title"] = "Save";
+    Layout = "_AdminLayout";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <h2>Save</h2>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="Save" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Username" class="control-label"></label>
+                                    <input asp-for="Username" class="form-control" />
+                                    <span asp-validation-for="Username" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Password" class="control-label"></label>
+                                    <input asp-for="Password" class="form-control" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Role</label>
+                                    <select class="form-control form-control-md" asp-for="RoleId">
+                                        @foreach (var item in Model.Roles)
+                                        {
+                                            <option value="@item.Id">@item.Name</option>
+                                        }
+
+                                    </select>
+                                </div>
+                                @*<div class="form-group">
+            <label asp-for="CreateDate" class="control-label"></label>
+            <input asp-for="CreateDate" class="form-control" />
+            <span asp-validation-for="CreateDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ExpiredDate" class="control-label"></label>
+            <input asp-for="ExpiredDate" class="form-control" />
+            <span asp-validation-for="ExpiredDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Type" class="control-label"></label>
+            <input asp-for="Type" class="form-control" />
+            <span asp-validation-for="Type" class="text-danger"></span>
+        </div>*@
+                                @*<div class="form-group">
+            <label asp-for="RoleId" class="control-label"></label>
+            <input asp-for="RoleId" class="form-control" />
+            <span asp-validation-for="RoleId" class="text-danger"></span>
+        </div>*@
+                            </div>
+                            
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-2">
+                                <input type="submit" value="Save" class="btn btn-primary btn-block" />
+                            </div>
+                            <div class="form-group col-md-2">
+                                <a asp-action="Index" class="btn btn-secondary btn-block"><i class="fa fa-table"></i> Back to List</a>
+                            </div>
+                            <div class="form-group col-md-8"></div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function readURL(input) {
+    if (input.files && input.files[0]) {
+    var reader = new FileReader();
+
+    reader.onload = function(e) {
+    $('#blah').attr('src', e.target.result);
+    }
+
+    reader.readAsDataURL(input.files[0]);
+    }
+    }
+
+    $("#imgInp").change(function() {
+    readURL(this);
+    });
+    </script>
+
+}

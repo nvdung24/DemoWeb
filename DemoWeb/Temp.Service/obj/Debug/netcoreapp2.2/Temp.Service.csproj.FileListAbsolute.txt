@@ -1,0 +1,15 @@
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.Service.deps.json
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.Service.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.Service.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.Common.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.DataAccess.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.Common.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\bin\Debug\netcoreapp2.2\Temp.DataAccess.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.csproj.AssemblyReference.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.AssemblyInfoInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.AssemblyInfo.cs
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.csproj.CoreCompileInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.csproj.CopyComplete
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Service\obj\Debug\netcoreapp2.2\Temp.Service.pdb

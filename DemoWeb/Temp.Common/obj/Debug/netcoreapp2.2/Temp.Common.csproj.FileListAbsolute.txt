@@ -1,0 +1,14 @@
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\bin\Debug\netcoreapp2.2\Temp.Common.deps.json
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\bin\Debug\netcoreapp2.2\Temp.Common.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\bin\Debug\netcoreapp2.2\Temp.Common.pdb
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.csproj.AssemblyReference.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.Resources.CommonResource.resources
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.Resources.MessageResource.resources
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.Resources.SideBar.resources
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.csproj.GenerateResource.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.AssemblyInfoInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.AssemblyInfo.cs
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.csproj.CoreCompileInputs.cache
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.dll
+D:\Thực hành web\FrameworkNetcore\Temp.Web\Temp.Common\obj\Debug\netcoreapp2.2\Temp.Common.pdb
